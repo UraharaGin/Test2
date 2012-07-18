@@ -1,0 +1,48 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Domain/f:User.cs" caret="219" fromTop="12" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Domain/f:DataBaseInitializer.cs" caret="267" fromTop="9" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Domain/f:DataBaseContext.cs" caret="159" fromTop="6" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Core/f:Repository.cs" caret="437" fromTop="17" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:NInjectModules/f:MainNinjectModule.cs" caret="135" fromTop="6" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/f:Global.asax.cs" caret="1250" fromTop="20" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Tools/f:Authentificator.cs" caret="596" fromTop="22" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Tools/f:IAuthentificator.cs" caret="140" fromTop="6" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Views/d:Account/f:Register.cshtml" caret="73" fromTop="3" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Core/f:IRepositiry.cs" caret="176" fromTop="9" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Models/f:RegisterModel.cs" caret="360" fromTop="12" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="1295" fromTop="22" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="567" fromTop="15" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Views/d:Account/f:Register.cshtml" caret="411" fromTop="15" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Views/d:Account/f:Register.cshtml" caret="170" fromTop="11" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="216" fromTop="5" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Tools/f:IAuthentificator.cs" caret="87" fromTop="2" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Tools/f:Authentificator.cs" caret="191" fromTop="6" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Core/f:Repository.cs" caret="583" fromTop="22" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Core/f:IRepositiry.cs" caret="163" fromTop="12" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Core/f:IRepositiry.cs" caret="163" fromTop="6" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Models/f:RegisterModel.cs" caret="358" fromTop="12" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Core/f:IRepositiry.cs" caret="176" fromTop="9" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Tools/f:Authentificator.cs" caret="560" fromTop="22" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Tools/f:Authentificator.cs" caret="66" fromTop="2" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="337" fromTop="12" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="482" fromTop="18" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Tools/f:Authentificator.cs" caret="597" fromTop="9" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Tools/f:IAuthentificator.cs" caret="140" fromTop="6" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="1368" fromTop="22" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="1273" fromTop="12" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="1273" fromTop="25" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/f:Global.asax.cs" caret="898" fromTop="9" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/f:Global.asax.cs" caret="992" fromTop="5" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/f:Global.asax.cs" caret="1312" fromTop="12" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:NInjectModules/f:MainNinjectModule.cs" caret="403" fromTop="13" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Views/d:Account/f:Register.cshtml" caret="73" fromTop="3" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="1273" fromTop="18" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Domain/f:DataBaseInitializer.cs" caret="124" fromTop="4" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Domain/f:DataBaseContext.cs" caret="159" fromTop="6" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="752" fromTop="4" />
+    <File id="D0C59E5F-6E70-40F1-8837-AB24785BCE7D/d:Controllers/f:AccountController.cs" caret="1285" fromTop="21" />
+  </RecentEdits>
+</RecentFiles>

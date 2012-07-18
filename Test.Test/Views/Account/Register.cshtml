@@ -1,0 +1,19 @@
+﻿@model Test.Test.Models.RegisterModel
+
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>title</h2>
+@{
+    using (Html.BeginForm())
+    {
+        Html.ValidationSummary();
+        <fieldset>
+            <p>@Html.TextBoxFor( x => x.UserName)</p>
+            <p>@Html.TextBoxFor( x => x.Password)</p>
+            <p>@Html.TextBoxFor( x => x.ConfirmPassword)</p>
+            <p><input type="submit" value="Oloo"/></p>
+        </fieldset>
+    }
+}
